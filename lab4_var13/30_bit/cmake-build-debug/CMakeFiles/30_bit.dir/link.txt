@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -fopenmp -g   CMakeFiles/30_bit.dir/main.cpp.o  -o 30_bit 

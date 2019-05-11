@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/salamander/Documents/3_kpi/Крипта/4/30_bit/main.cpp
+iostream
+-
+stdio.h
+-
+bitset
+-
+cmath
+-
+fstream
+-
+omp.h
+-
+

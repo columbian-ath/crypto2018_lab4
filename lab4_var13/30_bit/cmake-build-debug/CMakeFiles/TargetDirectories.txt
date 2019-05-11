@@ -1,0 +1,3 @@
+/home/salamander/Documents/3_kpi/Крипта/4/30_bit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/salamander/Documents/3_kpi/Крипта/4/30_bit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/salamander/Documents/3_kpi/Крипта/4/30_bit/cmake-build-debug/CMakeFiles/30_bit.dir
